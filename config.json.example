@@ -1,0 +1,8 @@
+{
+  "wifi_ssid": "your wifi ssid",
+  "wifi_password": "your wifi password",
+  "aws_endpoint": "yourendpoint.iot.us-east-1.amazonaws.com",
+  "aws_region": "your region",
+  "aws_key": "your aws key",
+  "aws_secret": "your aws secret"
+}
